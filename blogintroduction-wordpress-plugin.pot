@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Kim Huebel
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/blogintroduction-wordpress-"
+"plugin\n"
+"POT-Creation-Date: 2009-04-20 18:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: blogintroduction-wordpress-plugin.php:16
+msgid "Blogintroduction Options"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:64
+msgid ""
+"<a href=\"http://www.websnapr.com\" target=\"_new\">Websnapr</a>-API-Key:"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:65
+msgid "Image-width:"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:66
+msgid "Image-height:"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:68
+msgid "Use 4:3-ratio:"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:68
+msgid "Checked means using 4:1-ratio for image"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:70
+msgid "Image-Source:"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:74
+msgid "get thumbs from websnapr"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:75
+msgid "get thumbs via image-link in link-manager"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:80
+msgid "Link-category:"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:85
+msgid "View all Categories"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:92
+msgid "Link-target:"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:96
+msgid "in actual window"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:97
+msgid "in new window"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:103
+msgid "Show description:"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:103
+#: blogintroduction-wordpress-plugin.php:104
+msgid "Checked means viewing"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:104
+msgid "Show private links:"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:105
+msgid "Show new thumbnail in ... seconds:"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:105
+msgid "Check this box to activate automatic renew of the thumbnail"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:105
+msgid "put in here the amount of seconds to wait for the new thumnail"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:111
+msgid "Update Options"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin.php:238
+#: blogintroduction-wordpress-plugin_ajax.php:81
+msgid "Description"
+msgstr ""
+
+#: blogintroduction-wordpress-plugin_ajax.php:22
+msgid "Blogintroduction"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "blogintroduction-wordpress-plugin"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://blog.huebel-online.de/blogintroduction-wordpress-plugin/"
+msgstr ""
+
+#. Description of an extension
+msgid "Shows a thumbnail of a blogroll/linkroll-entry by random"
+msgstr ""
+
+#. Author of an extension
+msgid "Kim Huebel"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://blog.huebel-online.de"
+msgstr ""
